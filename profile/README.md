@@ -4,7 +4,7 @@
 
 **The Digital Product & Publishing Foundry of [Fleect](https://fleect.com)**
 
-[![Parent Company](https://img.shields.io/badge/Holding-Fleect-000000?style=for-the-badge&logo=shield)](https://fleect.com)
+[![Parent Organization](https://img.shields.io/badge/Parent-Fleect-000000?style=for-the-badge&logo=shield)](https://fleect.com)
 [![Storefront](https://img.shields.io/badge/Storefront-studio.fleect.com-6366f1?style=for-the-badge&logo=google-chrome)](https://studio.fleect.com)
 [![Gumroad](https://img.shields.io/badge/Gumroad-fleectstudio.gumroad.com-ff90e8?style=for-the-badge&logo=gumroad)](https://fleectstudio.gumroad.com)
 
@@ -27,7 +27,7 @@
 Fleect Studio operates as the dedicated publishing and digital product arm of **Fleect**. We create practical, self-guided systems designed to solve immediate real-world operational problems with zero friction.
 
 * **Digital Products Storefront**: [studio.fleect.com](https://studio.fleect.com)
-* **Parent Organization**: [Fleect](https://github.com/Fleect) (`fleect.com`) &mdash; Venture studio & technology holding.
+* **Parent Organization**: [Fleect](https://github.com/Fleect) (`fleect.com`) &mdash; Parent technology studio.
 * **Customer Support & Inquiries**: [studio@fleect.com](mailto:studio@fleect.com)
 
 ---
