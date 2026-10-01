@@ -18,7 +18,7 @@
 
 ### About Fleect Studio
 
-Fleect Studio operates as the dedicated publishing and digital product division of **Fleect**. We create practical, self-guided systems designed to solve immediate real-world operational problems with zero friction.
+Fleect Studio operates as the dedicated publishing and digital product arm of **Fleect**. We create practical, self-guided systems designed to solve immediate real-world operational problems with zero friction.
 
 * **Digital Products & Commercial Distribution**: [studio.fleect.com](https://studio.fleect.com)
 * **Parent Organization**: [Fleect](https://github.com/Fleect) (`fleect.com`) &mdash; Venture studio & technology holding.
@@ -27,5 +27,5 @@ Fleect Studio operates as the dedicated publishing and digital product division 
 ---
 
 <div align="center">
-  <sub>© 2026 Fleect Studio. A division of Fleect. All rights reserved.</sub>
+  <sub>© 2026 Fleect Studio. Part of Fleect. All rights reserved.</sub>
 </div>
