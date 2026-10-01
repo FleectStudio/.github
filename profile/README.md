@@ -22,7 +22,7 @@ Fleect Studio operates as the dedicated publishing and digital product division 
 
 * **Digital Products & Commercial Distribution**: [studio.fleect.com](https://studio.fleect.com)
 * **Parent Organization**: [Fleect](https://github.com/Fleect) (`fleect.com`) &mdash; Venture studio & technology holding.
-* **Customer Support & Inquiries**: [support@fleect.com](mailto:support@fleect.com)
+* **Customer Support & Inquiries**: [studio@fleect.com](mailto:studio@fleect.com)
 
 ---
 
