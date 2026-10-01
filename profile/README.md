@@ -6,7 +6,7 @@
 
 [![Parent Company](https://img.shields.io/badge/Holding-Fleect-000000?style=for-the-badge&logo=shield)](https://fleect.com)
 [![Storefront](https://img.shields.io/badge/Storefront-studio.fleect.com-6366f1?style=for-the-badge&logo=google-chrome)](https://studio.fleect.com)
-[![Gumroad](https://img.shields.io/badge/Gumroad-fleect--studio.gumroad.com-ff90e8?style=for-the-badge&logo=gumroad)](https://fleect-studio.gumroad.com)
+[![Gumroad](https://img.shields.io/badge/Gumroad-fleectstudio.gumroad.com-ff90e8?style=for-the-badge&logo=gumroad)](https://fleectstudio.gumroad.com)
 
 <p align="center">
   Fleect Studio designs, engineers, and distributes high-utility consumer toolkits, operating guides, legal action frameworks, and digital productivity systems.
