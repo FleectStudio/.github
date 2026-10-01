@@ -14,13 +14,19 @@
 
 </div>
 
+### 📦 Published Systems & Toolkits
+
+| Product Suite | Focus | Storefront |
+| :--- | :--- | :--- |
+| [**Tenant & Renter Defense**](https://studio.fleect.com) | 50-state statutory deposit recovery, landlord habitability cure clocks, early lease termination defense, and roommate sanity agreements. | [studio.fleect.com](https://studio.fleect.com) |
+
 ---
 
 ### About Fleect Studio
 
 Fleect Studio operates as the dedicated publishing and digital product arm of **Fleect**. We create practical, self-guided systems designed to solve immediate real-world operational problems with zero friction.
 
-* **Digital Products & Commercial Distribution**: [studio.fleect.com](https://studio.fleect.com)
+* **Digital Products Storefront**: [studio.fleect.com](https://studio.fleect.com)
 * **Parent Organization**: [Fleect](https://github.com/Fleect) (`fleect.com`) &mdash; Venture studio & technology holding.
 * **Customer Support & Inquiries**: [studio@fleect.com](mailto:studio@fleect.com)
 
